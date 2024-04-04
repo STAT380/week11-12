@@ -1,5 +1,5 @@
 ---
-title: "Week 10"
+title: "Week 12"
 title-block-banner: true
 title-block-style: default
 execute:
@@ -43,9 +43,6 @@ packages <- c(
 sapply(packages, require, character.only=TRUE)
 ```
 
-
-
-# Thu, Mar 30
 
 ---
 
